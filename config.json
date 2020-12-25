@@ -1,0 +1,6 @@
+{
+    "name":"spigot",
+    "command":"./home/server/startServer.sh"
+    "checktime":"30",
+    "restarts": ["0.00", "4.00", "8.00", "12.00", "16.00", "20.00"]
+}
